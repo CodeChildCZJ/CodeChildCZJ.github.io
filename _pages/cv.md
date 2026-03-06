@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, Zhejiang University, 2024 – Present
+* B.S. in Artificial Intelligence, Northeastern University, 2021 – 2025
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 – Present: Master's Student
+  * Zhejiang University, School of Software Engineering
+  * Research area: Multimodal Large Language Models, Visual Token Pruning
+  * Topics: Efficient inference for MLLMs, vision token compression (FastV, SparseVLMs)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C++
+* Frameworks & Libraries
+  * PyTorch
+  * Hugging Face Transformers
+* Models & Platforms
+  * LLaVA, LLaMA series
+  * CUDA
 
-Publications
+Competitions & Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [2024.12] **Bronze Medal**, 49th ICPC Asia East Continent Final
+* [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
+* [2024.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
+* [2024.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
+* [2024.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
