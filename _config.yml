@@ -15,7 +15,7 @@ name                     : &name "Chen Zengjie"
 description              : &description "Chen Zengjie's academic homepage - Master student at Zhejiang University, focusing on Multimodal Large Language Models"
 url                      : https://CodeChildCZJ.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CodeChildCZJ/chenzengjie.github.io"
+repository               : "CodeChildCZJ/CodeChildCZJ.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
