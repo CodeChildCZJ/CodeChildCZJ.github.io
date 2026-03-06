@@ -12,8 +12,14 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a first-year Master's student at the [Scho
 ## Research Interests
 
 - Multimodal Large Language Models (MLLMs)
-- Vision-Language Understanding
-- AI for Science / Real-world Applications
+
+## Publications & Academic Achievements
+
+*(Coming soon)*
+
+## Competitions & Awards
+
+*(Coming soon)*
 
 ## Education
 
