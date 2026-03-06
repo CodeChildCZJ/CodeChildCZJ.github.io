@@ -19,11 +19,11 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a first-year Master's student at the [Scho
 
 ## Competitions & Awards
 
-- [2025.12] **Bronze Medal**, 49th ICPC Asia East Continent Final
-- [2025.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
-- [2025.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
-- [2025.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
-- [2025.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
+- [2024.12] **Bronze Medal**, 49th ICPC Asia East Continent Final
+- [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
+- [2024.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
+- [2024.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
+- [2024.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
 
 ## Education
 

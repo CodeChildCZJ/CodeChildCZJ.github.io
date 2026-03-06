@@ -19,7 +19,6 @@ Research
 * 2025 – Present: Master's Student
   * Zhejiang University, School of Software Engineering
   * Research area: Multimodal Large Language Models, Visual Token Pruning
-  * Topics: Efficient inference for MLLMs, vision token compression (FastV, SparseVLMs)
 
 Skills
 ======
@@ -32,8 +31,8 @@ Skills
 
 Competitions & Awards
 ======
-* [2025.12] **Bronze Medal**, 49th ICPC Asia East Continent Final
-* [2025.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
-* [2025.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
-* [2025.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
-* [2025.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
+* [2024.12] **Bronze Medal**, 49th ICPC Asia East Continent Final
+* [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
+* [2024.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
+* [2024.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
+* [2024.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
