@@ -29,9 +29,6 @@ Skills
 * Frameworks & Libraries
   * PyTorch
   * Hugging Face Transformers
-* Models & Platforms
-  * LLaVA, LLaMA series
-  * CUDA
 
 Competitions & Awards
 ======
