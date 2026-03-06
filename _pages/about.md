@@ -19,7 +19,13 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a first-year Master's student at the [Scho
 
 ## Competitions & Awards
 
-*(Coming soon)*
+| Competition | Team | Award | Time | Location | Rank |
+|---|---|---|---|---|---|
+| 49th ICPC Asia East Continent Final | 东北大学_爆金币 | 🥉 Bronze | 2024-12 | Xi'an | 123 / 166 |
+| 49th ICPC Asia Regional Contest, Kunming | NEU_飞禽走兽 | 🥈 Silver | 2024-12 | Kunming | 128 / 140 |
+| 10th CCPC China Collegiate, Zhengzhou | 东北大学_瑟尼欧里斯 | 🥈 Silver | 2024-11 | Zhengzhou | 69 / 74 |
+| 49th ICPC Asia Regional Contest, Nanjing | NEU_飞禽走兽 | 🥇 Gold | 2024-11 | Nanjing | 15 / 25 |
+| 10th CCPC China Collegiate, Harbin | 东北大学_真界再想圣歌队 | 🥈 Silver | 2024-10 | Harbin | 78 / 82 |
 
 ## Education
 
