@@ -24,7 +24,6 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 
 - **Loom** (in preparation): a harness around a frozen VLA and planner that makes feedback interpretation (what a manipulation step actually achieved) and action checking (whether the next tool call should run) revisable from execution experience.
 - **[NERO-VLA](https://github.com/CodeChildCZJ/nero-vla)**: a benchmark of seven VLA backbones (pi0.5, pi0, OpenVLA-OFT, GR00T N1.5/N1.7, SmolVLA, ACT) on the same real-robot manipulation data, with a numpy-only script that reproduces the leaderboard. It is a recipe-level comparison, not a controlled architecture A/B.
-- **RL for VLA**: PPO/GRPO training and out-of-distribution evaluation of OpenVLA-OFT on ManiSkill3 with RLinf, and an ongoing reproduction of *What Can RL Bring to VLA Generalization?*.
 
 ## Competitions & Awards
 
