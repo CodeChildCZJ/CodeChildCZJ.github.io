@@ -18,7 +18,11 @@ Research
 ======
 * 2025 – Present: Master's Student
   * Zhejiang University, School of Software Engineering
-  * Research area: Multimodal Large Language Models, Visual Token Pruning
+  * Research area: Efficient MLLMs (visual token reduction), embodied intelligence (VLA, agentic harness)
+
+Publications
+======
+* **Zengjie Chen**, Yuxiang Cai, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen. *Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction.* ECCV 2026.
 
 Skills
 ======
