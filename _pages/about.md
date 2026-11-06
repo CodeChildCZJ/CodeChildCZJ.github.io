@@ -12,6 +12,7 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 ## Research Interests
 
 - Efficient MLLMs: visual token reduction, inference acceleration
+- Reinforcement learning for multimodal agents (GRPO/PPO)
 - Embodied intelligence: VLA models, agentic execution and self-evolving harnesses for robot manipulation
 
 ## Publications & Academic Achievements
@@ -19,6 +20,10 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 - **Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction** (PriorTR)  
   **Zengjie Chen**, Yuxiang Cai, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen  
   *ECCV 2026* (first author)
+
+## Reinforcement Learning
+
+Hands-on experience with RL post-training: multi-turn agentic RL for multimodal models on verl (tool-calling rollouts, GRPO, reward design), a long-video agent trained with SFT + GRPO, and PPO/GRPO for VLA models.
 
 ## Embodied Intelligence (ongoing work)
 
