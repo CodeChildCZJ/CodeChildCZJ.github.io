@@ -19,7 +19,7 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 
 - **Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction** (PriorTR)  
   **Zengjie Chen**, Yuxiang Cai, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen  
-  *ECCV 2026* (first author)
+  *ECCV 2026* (first author) · [[Paper]](https://arxiv.org/abs/2606.24156) [[Code]](https://github.com/CodeChildCZJ/PriorTR)
 
 ## Reinforcement Learning
 

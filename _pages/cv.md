@@ -22,7 +22,7 @@ Research
 
 Publications
 ======
-* **Zengjie Chen**, Yuxiang Cai, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen. *Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction.* ECCV 2026.
+* **Zengjie Chen**, Yuxiang Cai, Jingcai Guo, Taotao Cai, Jianwei Yin, Zhi Chen. *Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction.* ECCV 2026. [[Paper]](https://arxiv.org/abs/2606.24156) [[Code]](https://github.com/CodeChildCZJ/PriorTR)
 
 Skills
 ======
