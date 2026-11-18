@@ -31,7 +31,7 @@ Skills
 * Multimodal LLMs: attention, KV cache, visual token pruning; LLaVA, Qwen-VL, InternVL
 * Post-training & RL: SFT, LoRA, PPO, GRPO, DPO; multi-turn agentic RL, real-robot online RL
 * Embodied AI: π0.5, OpenVLA-OFT, GR00T; real-robot deployment, LIBERO and RoboTwin evaluation
-* Engineering: Linux, Docker, Git, multi-node multi-GPU training, Ray, vLLM serving
+* Engineering: Linux, Docker, Git, multi-GPU distributed training, Ray, vLLM serving
 * Agent systems: tool calling, multi-step planning, memory management, self-evolving skills/memory/tools
 
 Competitions & Awards
