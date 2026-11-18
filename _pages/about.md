@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Software Engineering, Zhejiang University](https://www.sse.zju.edu.cn/), working in the "Physical Intelligence" group of the ACES Lab. My research focuses on **multimodal large language models**, **embodied intelligence**, **reinforcement learning**, and **self-evolving agents**.
+Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Software Engineering, Zhejiang University](https://www.sse.zju.edu.cn/). My research focuses on **multimodal large language models**, **embodied intelligence**, **reinforcement learning**, and **self-evolving agents**.
 
 ## Research Interests
 

@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * M.S. in Software Engineering, Zhejiang University, 2025 – Present
-  * "Physical Intelligence" group, ACES Lab
   * Research: multimodal LLMs, embodied intelligence, reinforcement learning, self-evolving agents
 * B.S. in Artificial Intelligence, Northeastern University, 2021 – 2025
 
