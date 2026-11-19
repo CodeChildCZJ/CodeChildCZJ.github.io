@@ -11,9 +11,9 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 
 ## Research Interests
 
-- Efficient MLLMs: visual token reduction, inference acceleration
-- Embodied agents: LLM planners driving VLA policies, self-evolving skills, memory and tools
-- RL post-training for multimodal agents: multi-turn agentic RL, GRPO/PPO
+- Efficient MLLMs: visual token reduction
+- Embodied agents: tool-using agents, self-evolving skills, memory and tools
+- Reinforcement learning for agents and robot policies
 
 ## Publications
 
@@ -24,11 +24,7 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 ## Projects
 
 - **Loom: A Self-Evolving Embodied Agent for Long-Horizon Robot Manipulation** (2026.06 – Present)  
-  With the LLM planner and the VLA policy frozen, Loom adds an execution-supervision layer that tracks task progress and decides whether each action should run, be revised, or be blocked. The agent evolves its supervision rules, skills, memory and tools from failed rollouts, and each change is verified against the previous version before it is promoted. On LIBERO-Pro, self-evolution raises the success rate from 46% to 67%, 10.6% above Harness VLA with the same planner.
-- **VimPro: Hierarchical Memory and Evidence Selection for Long-Video Agents** (2025.12 – 2026.08)  
-  A long-video agent with episodic, evidence and working memory. A lightweight proxy model, MemLens, trained with SFT + GRPO, selects answer-relevant evidence for the answering agent. It reaches 81.0 / 73.4 / 74.7 on Video-MME / LongVideoBench / LVBench while cutting inference time by 64.1% and token usage by 73.6%.
-- **Multimodal Agentic RL Framework on verl** (2025.06 – 2025.09)  
-  Extended verl from single-turn generation to asynchronous multi-turn agent-environment interaction with tool calling, interleaved image/text trajectories (M-RoPE aligned), GRPO with loss masking over environment tokens, and rewards combining task correctness, tool validity and LLM-as-a-Judge.
+  Loom is an embodied agent built on a frozen vision-language model. It calls tools (a VLA policy, arm and gripper motion control, perception) and pre-registered skills, and can write Python programs that run in a sandbox. Before each physical action, a guard check decides whether to execute, revise or block it, so completed progress is not undone. Across batches, an LLM diagnoses failed rollouts, revises supervision rules and memory, and creates new skills and tools; each change is verified on the same states before it is promoted. On LIBERO-Pro, self-evolution raises the success rate from 46% to 67%, 10.6% above Harness VLA with the same planner.
 
 ## Competitions & Awards
 

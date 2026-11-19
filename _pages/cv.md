@@ -22,14 +22,11 @@ Publications
 Projects
 ======
 * **Loom**: self-evolving embodied agent for long-horizon manipulation (2026.06 – Present). LIBERO-Pro success 46% → 67%, +10.6% over Harness VLA.
-* **VimPro**: hierarchical memory and evidence selection for long-video agents (2025.12 – 2026.08). SFT + GRPO; 81.0 / 73.4 / 74.7 on Video-MME / LongVideoBench / LVBench.
-* **Multimodal Agentic RL on verl**: multi-turn tool-calling rollouts, multimodal trajectories, GRPO with loss masking (2025.06 – 2025.09).
 
 Skills
 ======
-* Programming & frameworks: Python, C++, PyTorch, Transformers, verl, openpi, vLLM
-* Multimodal LLMs: attention, KV cache, visual token pruning; LLaVA, Qwen-VL, InternVL
-* Post-training & RL: SFT, LoRA, PPO, GRPO, DPO; multi-turn agentic RL, real-robot online RL
+* Programming & frameworks: Python, C++, PyTorch, Transformers, openpi, vLLM
+* Multimodal LLMs: attention, visual token reduction; LLaVA, Qwen-VL, InternVL
 * Embodied AI: π0.5, OpenVLA-OFT, GR00T; real-robot deployment, LIBERO and RoboTwin evaluation
 * Engineering: Linux, Docker, Git, multi-GPU distributed training, Ray, vLLM serving
 * Agent systems: tool calling, multi-step planning, memory management, self-evolving skills/memory/tools
