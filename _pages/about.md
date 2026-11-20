@@ -28,8 +28,8 @@ Hi! I'm **Chen Zengjie (陈增杰)**, a Master's student at the [School of Softw
 
 ## Competitions & Awards
 
-- [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
 - [2024.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
+- [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
 - [2024.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
 - [2024.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
 

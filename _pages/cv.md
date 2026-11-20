@@ -25,15 +25,14 @@ Projects
 
 Skills
 ======
-* Programming & frameworks: Python, C++, PyTorch, Transformers, openpi, vLLM
-* Multimodal LLMs: attention, visual token reduction; LLaVA, Qwen-VL, InternVL
-* Embodied AI: π0.5, OpenVLA-OFT, GR00T; real-robot deployment, LIBERO and RoboTwin evaluation
-* Engineering: Linux, Docker, Git, multi-GPU distributed training, Ray, vLLM serving
-* Agent systems: tool calling, multi-step planning, memory management, self-evolving skills/memory/tools
+* Embodied AI: π0 / π0.5, openpi, OpenVLA-OFT, GR00T; flow matching, action chunking; teleoperation data collection and real-robot deployment
+* Agent systems: tool calling, planning, memory management, action guard checks, self-evolution (failure diagnosis, skill and tool generation); LIBERO and RoboTwin evaluation
+* Multimodal LLMs: Transformer attention, visual token reduction and pruning; LLaVA, Qwen-VL, InternVL
+* Programming & engineering: Python, C++, PyTorch, Transformers, Linux, Docker, Git, multi-GPU distributed training, Ray, vLLM
 
 Competitions & Awards
 ======
-* [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
 * [2024.11] **Gold Medal**, 49th ICPC Asia Regional Contest (Nanjing)
+* [2024.12] **Silver Medal**, 49th ICPC Asia Regional Contest (Kunming)
 * [2024.11] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Zhengzhou)
 * [2024.10] **Silver Medal**, 10th CCPC China Collegiate Programming Contest (Harbin)
